@@ -1,5 +1,7 @@
 # Daniel Florez Thomas | Portafolio
 
+![Identidad DFT](github-banner.png)
+
 ### Consultor experto en análisis de datos · Economía · BI · IA aplicada
 
 Transformo datos y procesos manuales en herramientas para decidir y trabajar mejor. Soy economista y magíster en Inteligencia Analítica de Datos de la Universidad de los Andes, con experiencia en contextos económicos, financieros y humanitarios.
@@ -55,6 +57,8 @@ Puedo ayudarte a organizar información, automatizar tareas, construir herramien
 
 ## Código del sitio y publicación automática
 
-La web conserva el fondo claro, verde profundo y acentos lima. Su contenido se genera con [build-site.mjs](build-site.mjs) y su diseño se define en [styles.css](styles.css).
+La web conserva el fondo claro, violeta mineral y acentos amarillo ámbar. Su contenido se genera con [build-site.mjs](build-site.mjs) y su diseño se define en [styles.css](styles.css).
 
 [Guía de conexión con Cloudflare Pages](CLOUDFLARE.md) · [Logo PNG](DFT_logo.png) · [Logo SVG](DFT_logo.svg)
+
+[Identidad visual y versiones del logo](BRAND.md) · [Kit de logos PNG y SVG](Kit_logos_DFT_violeta.zip)
