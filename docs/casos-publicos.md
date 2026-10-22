@@ -1,6 +1,6 @@
 # Casos y proyectos documentados
 
-[Volver al portafolio](../README.md) · [Explorar la versión web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/)
+[Volver al portafolio](../README.md) · [Explorar la versión web](https://daniel-florez.pages.dev/portafolio/)
 
 ## Del microdato al mercado laboral.
 
@@ -18,7 +18,7 @@
 
 **Alcance y límites.** La interpretación requiere considerar el diseño de la encuesta, los factores de expansión y la comparabilidad entre períodos. El enlace permite consultar el tablero; no se publica aquí un repositorio de código.
 
-[Consultar tablero](https://app.powerbi.com/view?r=eyJrIjoiYzM2ZTIyNTQtOGQ2ZS00NzVhLTkxYjUtOTc2MGZkNTAyZWJjIiwidCI6IjNlOTQyYWU0LWNkOTMtNGQzNy1iZTJmLTY5MzllNDNjMTRiNyJ9) · [Ficha web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/casos/mercado-laboral-geih/)
+[Consultar tablero](https://app.powerbi.com/view?r=eyJrIjoiYzM2ZTIyNTQtOGQ2ZS00NzVhLTkxYjUtOTc2MGZkNTAyZWJjIiwidCI6IjNlOTQyYWU0LWNkOTMtNGQzNy1iZTJmLTY5MzllNDNjMTRiNyJ9) · [Ficha web](https://daniel-florez.pages.dev/portafolio/casos/mercado-laboral-geih/)
 
 ## Crédito que se puede analizar.
 
@@ -36,7 +36,7 @@
 
 **Alcance y límites.** Producto institucional. La titularidad corresponde a sus organizaciones; esta ficha describe mi contribución. No se distribuyen bases ni código internos. El enlace original del monitor no estaba disponible al verificarlo el 22 de octubre de 2026; se conserva la descripción de la experiencia.
 
-Caso institucional documentado · [Ficha web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/casos/financiamiento-agropecuario/)
+Caso institucional documentado · [Ficha web](https://daniel-florez.pages.dev/portafolio/casos/financiamiento-agropecuario/)
 
 ## Anticipar para decidir.
 
@@ -54,7 +54,7 @@ Caso institucional documentado · [Ficha web](https://dft-daniel-florez.daniel9f
 
 **Alcance y límites.** Los pronósticos dependen de la cobertura, los rezagos de registro y los supuestos del modelo; no son certezas. La publicación es institucional y sus créditos completos se consultan en la fuente.
 
-[Consultar tablero](https://app.powerbi.com/view?r=eyJrIjoiYjEwN2E0ODEtODc2Yy00ZDlhLTk0YTAtNmY1M2ZmNDhkZDEyIiwidCI6IjNlOTQyYWU0LWNkOTMtNGQzNy1iZTJmLTY5MzllNDNjMTRiNyJ9) · [Leer nota metodológica](https://reliefweb.int/report/colombia/nota-metodologica-pronosticos-de-desplazamientos-individuales-y-masivos-2024-colombia) · [Ficha web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/casos/pronosticos-desplazamiento/)
+[Consultar tablero](https://app.powerbi.com/view?r=eyJrIjoiYjEwN2E0ODEtODc2Yy00ZDlhLTk0YTAtNmY1M2ZmNDhkZDEyIiwidCI6IjNlOTQyYWU0LWNkOTMtNGQzNy1iZTJmLTY5MzllNDNjMTRiNyJ9) · [Leer nota metodológica](https://reliefweb.int/report/colombia/nota-metodologica-pronosticos-de-desplazamientos-individuales-y-masivos-2024-colombia) · [Ficha web](https://daniel-florez.pages.dev/portafolio/casos/pronosticos-desplazamiento/)
 
 ## Información para la respuesta.
 
@@ -72,7 +72,7 @@ Caso institucional documentado · [Ficha web](https://dft-daniel-florez.daniel9f
 
 **Alcance y límites.** Son contribuciones institucionales y de equipo, no productos de autoría exclusiva. Las fuentes conservan sus créditos y titularidad.
 
-[Ver producto en HDX](https://data.humdata.org/dataset/ola-invernal-en-colombia-2022) · [Ver radiografía de Nariño](https://reliefweb.int/report/colombia/radiografia-minas-antipersonal-departamento-de-narino-2016-2023) · [Ficha web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/casos/monitoreo-emergencias/)
+[Ver producto en HDX](https://data.humdata.org/dataset/ola-invernal-en-colombia-2022) · [Ver radiografía de Nariño](https://reliefweb.int/report/colombia/radiografia-minas-antipersonal-departamento-de-narino-2016-2023) · [Ficha web](https://daniel-florez.pages.dev/portafolio/casos/monitoreo-emergencias/)
 
 ## Entender la brecha digital.
 
@@ -90,7 +90,7 @@ Caso institucional documentado · [Ficha web](https://dft-daniel-florez.daniel9f
 
 **Alcance y límites.** Trabajo académico en equipo. Los escenarios son exploratorios; el repositorio no implica un servicio desplegado ni resultados de impacto causal.
 
-[Explorar repositorio](https://github.com/DanielFlorezT/AdopcionDigitalenColombia) · [Ficha web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/casos/adopcion-digital/)
+[Explorar repositorio](https://github.com/DanielFlorezT/AdopcionDigitalenColombia) · [Ficha web](https://daniel-florez.pages.dev/portafolio/casos/adopcion-digital/)
 
 ## Del modelo a la aplicación.
 
@@ -108,5 +108,5 @@ Caso institucional documentado · [Ficha web](https://dft-daniel-florez.daniel9f
 
 **Alcance y límites.** Demostración académica; no es un sistema de decisión crediticia en producción. Algunas dependencias y datos requieren configuración y acceso al almacenamiento original.
 
-[Explorar repositorio](https://github.com/DanielFlorezT/ProyectoDSA) · [Ficha web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/casos/riesgo-crediticio/)
+[Explorar repositorio](https://github.com/DanielFlorezT/ProyectoDSA) · [Ficha web](https://daniel-florez.pages.dev/portafolio/casos/riesgo-crediticio/)
 

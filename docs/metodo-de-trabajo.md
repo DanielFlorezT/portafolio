@@ -24,4 +24,4 @@ Mi punto de partida es la pregunta que una persona o un equipo necesita responde
 
 Personas, microempresas y equipos de organizaciones públicas, privadas o humanitarias. La solución se adapta al problema, a los datos y al alcance acordado.
 
-[Consultar servicios](https://dft-daniel-florez.daniel9florez.chatgpt.site/) · [Conversar por WhatsApp](https://wa.me/573013382030?text=Hola%2C%20Daniel.%20Me%20gustar%C3%ADa%20conversar%20sobre%20una%20soluci%C3%B3n%20para%20mi%20proyecto.%20Mi%20necesidad%20es%3A%20) · [Correo](mailto:dd.florez@uniandes.edu.co)
+[Consultar servicios](https://daniel-florez.pages.dev/) · [Conversar por WhatsApp](https://wa.me/573013382030?text=Hola%2C%20Daniel.%20Me%20gustar%C3%ADa%20conversar%20sobre%20una%20soluci%C3%B3n%20para%20mi%20proyecto.%20Mi%20necesidad%20es%3A%20) · [Correo](mailto:dd.florez@uniandes.edu.co)

@@ -68,7 +68,7 @@ Oct 2022 — may 2024
 
 Analista de Datos en EVIDEM (may 2023–may 2024); Analista Junior en BHA (oct 2022–may 2023). Información humanitaria, emergencias y productos territoriales.
 
-### Analista de Datos Junior · Quspide
+### Aprendiz analista de datos - junior · Quspide
 
 Nov 2021 — sep 2022
 
