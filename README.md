@@ -6,6 +6,10 @@ Transformo datos y procesos manuales en herramientas para decidir y trabajar mej
 
 [**Explorar el portafolio web ↗**](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/) · [**Consultar mis servicios ↗**](https://dft-daniel-florez.daniel9florez.chatgpt.site/) · [**Hoja de vida PDF ↗**](https://dft-daniel-florez.daniel9florez.chatgpt.site/archivos/CV_Daniel_Florez_Thomas.pdf)
 
+## Hoja de vida principal
+
+[Descargar CV en PDF](CV_Daniel_Florez_Thomas.pdf). Versión de dos páginas con experiencia, herramientas y fuentes de datos, además de enlaces a LinkedIn, GitHub y web.
+
 ## Trabajo seleccionado
 
 | Caso | Mi participación y producto | Explorar |
@@ -47,4 +51,10 @@ Puedo ayudarte a organizar información, automatizar tareas, construir herramien
 
 ## Sigue explorando
 
-[LinkedIn](https://www.linkedin.com/in/df42/) · [Perfil de GitHub](https://github.com/DanielFlorezT) · [Archivo de proyectos universitarios](https://github.com/DanielFlorezT/proyectos-previos-universitarios) · [CV editable](https://dft-daniel-florez.daniel9florez.chatgpt.site/archivos/CV_Daniel_Florez_Thomas.docx)
+[LinkedIn](https://www.linkedin.com/in/df42/) · [Perfil de GitHub](https://github.com/DanielFlorezT) · [Archivo de proyectos universitarios](https://github.com/DanielFlorezT/proyectos-previos-universitarios)
+
+## Código del sitio y publicación automática
+
+La web conserva el fondo claro, verde profundo y acentos lima. Su contenido se genera con [build-site.mjs](build-site.mjs) y su diseño se define en [styles.css](styles.css).
+
+[Guía de conexión con Cloudflare Pages](CLOUDFLARE.md) · [Logo PNG](DFT_logo.png) · [Logo SVG](DFT_logo.svg)

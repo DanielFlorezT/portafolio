@@ -1,0 +1,10 @@
+{
+  "name": "daniel-florez-portafolio",
+  "private": true,
+  "scripts": {
+    "build": "node build-site.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
