@@ -4,7 +4,7 @@
 
 Transformo datos y procesos manuales en herramientas para decidir y trabajar mejor. Soy economista y magíster en Inteligencia Analítica de Datos de la Universidad de los Andes, con experiencia en contextos económicos, financieros y humanitarios.
 
-[**Explorar el portafolio web ↗**](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/) · [**Consultar mis servicios ↗**](https://dft-daniel-florez.daniel9florez.chatgpt.site/) · [**Hoja de vida PDF ↗**](https://dft-daniel-florez.daniel9florez.chatgpt.site/archivos/CV_Daniel_Florez_Thomas.pdf)
+[**Explorar el portafolio web ↗**](https://daniel-florez.pages.dev/portafolio/) · [**Consultar mis servicios ↗**](https://daniel-florez.pages.dev/) · [**Hoja de vida PDF ↗**](https://daniel-florez.pages.dev/archivos/CV_Daniel_Florez_Thomas.pdf)
 
 ## Hoja de vida principal
 
@@ -14,12 +14,12 @@ Transformo datos y procesos manuales en herramientas para decidir y trabajar mej
 
 | Caso | Mi participación y producto | Explorar |
 | --- | --- | --- |
-| Del microdato al mercado laboral. | Integración y validación de la GEIH del DANE para explorar indicadores laborales en Power BI. | [Ficha web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/casos/mercado-laboral-geih/) · [Consultar tablero](https://app.powerbi.com/view?r=eyJrIjoiYzM2ZTIyNTQtOGQ2ZS00NzVhLTkxYjUtOTc2MGZkNTAyZWJjIiwidCI6IjNlOTQyYWU0LWNkOTMtNGQzNy1iZTJmLTY5MzllNDNjMTRiNyJ9) |
-| Crédito que se puede analizar. | Microdatos de financiamiento agropecuario, indicadores y seguimiento por productor, intermediario y territorio. | [Ficha web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/casos/financiamiento-agropecuario/) · Caso institucional documentado |
-| Anticipar para decidir. | Preparación de información histórica y modelos de desplazamiento forzado para apoyar el análisis humanitario. | [Ficha web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/casos/pronosticos-desplazamiento/) · [Consultar tablero](https://app.powerbi.com/view?r=eyJrIjoiYjEwN2E0ODEtODc2Yy00ZDlhLTk0YTAtNmY1M2ZmNDhkZDEyIiwidCI6IjNlOTQyYWU0LWNkOTMtNGQzNy1iZTJmLTY5MzllNDNjMTRiNyJ9) |
-| Información para la respuesta. | Contribuciones a productos de seguimiento de emergencias y análisis territorial de afectaciones humanitarias. | [Ficha web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/casos/monitoreo-emergencias/) · [Ver producto en HDX](https://data.humdata.org/dataset/ola-invernal-en-colombia-2022) |
-| Entender la brecha digital. | Índice de adopción digital, clasificación y dashboard con enfoque en poblaciones rurales y vulnerables de Colombia. | [Ficha web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/casos/adopcion-digital/) · [Explorar repositorio](https://github.com/DanielFlorezT/AdopcionDigitalenColombia) |
-| Del modelo a la aplicación. | Clasificación de riesgo de impago y componentes de despliegue: datos versionados, API y dashboard. | [Ficha web](https://dft-daniel-florez.daniel9florez.chatgpt.site/portafolio/casos/riesgo-crediticio/) · [Explorar repositorio](https://github.com/DanielFlorezT/ProyectoDSA) |
+| Del microdato al mercado laboral. | Integración y validación de la GEIH del DANE para explorar indicadores laborales en Power BI. | [Ficha web](https://daniel-florez.pages.dev/portafolio/casos/mercado-laboral-geih/) · [Consultar tablero](https://app.powerbi.com/view?r=eyJrIjoiYzM2ZTIyNTQtOGQ2ZS00NzVhLTkxYjUtOTc2MGZkNTAyZWJjIiwidCI6IjNlOTQyYWU0LWNkOTMtNGQzNy1iZTJmLTY5MzllNDNjMTRiNyJ9) |
+| Crédito que se puede analizar. | Microdatos de financiamiento agropecuario, indicadores y seguimiento por productor, intermediario y territorio. | [Ficha web](https://daniel-florez.pages.dev/portafolio/casos/financiamiento-agropecuario/) · Caso institucional documentado |
+| Anticipar para decidir. | Preparación de información histórica y modelos de desplazamiento forzado para apoyar el análisis humanitario. | [Ficha web](https://daniel-florez.pages.dev/portafolio/casos/pronosticos-desplazamiento/) · [Consultar tablero](https://app.powerbi.com/view?r=eyJrIjoiYjEwN2E0ODEtODc2Yy00ZDlhLTk0YTAtNmY1M2ZmNDhkZDEyIiwidCI6IjNlOTQyYWU0LWNkOTMtNGQzNy1iZTJmLTY5MzllNDNjMTRiNyJ9) |
+| Información para la respuesta. | Contribuciones a productos de seguimiento de emergencias y análisis territorial de afectaciones humanitarias. | [Ficha web](https://daniel-florez.pages.dev/portafolio/casos/monitoreo-emergencias/) · [Ver producto en HDX](https://data.humdata.org/dataset/ola-invernal-en-colombia-2022) |
+| Entender la brecha digital. | Índice de adopción digital, clasificación y dashboard con enfoque en poblaciones rurales y vulnerables de Colombia. | [Ficha web](https://daniel-florez.pages.dev/portafolio/casos/adopcion-digital/) · [Explorar repositorio](https://github.com/DanielFlorezT/AdopcionDigitalenColombia) |
+| Del modelo a la aplicación. | Clasificación de riesgo de impago y componentes de despliegue: datos versionados, API y dashboard. | [Ficha web](https://daniel-florez.pages.dev/portafolio/casos/riesgo-crediticio/) · [Explorar repositorio](https://github.com/DanielFlorezT/ProyectoDSA) |
 
 [Leer los casos completos: problema, contribución, producto y límites](docs/casos-publicos.md).
 

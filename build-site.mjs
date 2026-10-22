@@ -8,7 +8,7 @@ fs.copyFileSync(path.join(root,'styles.css'),path.join(out,'styles.css'));
 fs.copyFileSync(path.join(root,'social-cover.png'),path.join(out,'social-cover.png'));
 
 
-const site=(process.env.SITE_URL || process.env.CF_PAGES_URL || 'https://dft-daniel-florez.daniel9florez.chatgpt.site').replace(/\/$/,'');
+const site=(process.env.SITE_URL || process.env.CF_PAGES_URL || 'https://daniel-florez.pages.dev').replace(/\/$/,'');
 const github='https://github.com/DanielFlorezT';
 const linkedin='https://www.linkedin.com/in/df42/';
 const wa=msg=>'https://wa.me/573013382030?text='+encodeURIComponent(msg||'Hola, Daniel. Me gustaría conversar sobre una solución para mi proyecto. Mi necesidad es: ');
